@@ -1,0 +1,3 @@
+/home/professor/coursera_brown-belt_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/professor/coursera_brown-belt_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/professor/coursera_brown-belt_C/cmake-build-debug/CMakeFiles/coursera_brown_belt_C.dir

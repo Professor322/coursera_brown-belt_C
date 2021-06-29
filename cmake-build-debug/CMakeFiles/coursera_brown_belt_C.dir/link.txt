@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g   CMakeFiles/coursera_brown_belt_C.dir/week1/PriorityCollection/PriorityCollection.cpp.o  -o coursera_brown_belt_C 
